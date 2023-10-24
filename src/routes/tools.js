@@ -77,6 +77,15 @@ export let tools = {
         link: '/css-animator',
         description: "The CSS Animator is a powerful tool that simplifies the creation of engaging and interactive CSS animations for developers. With an intuitive interface, you can generate CSS animations by defining keyframes, durations, delays, and easing functions. This tool eliminates the need for manual coding and enables developers to bring their designs to life with captivating CSS animations easily."
     },
+
+    'api-tester': {
+        name: 'API Tester',
+        icon: 'code',
+        link: '/api-tester',
+        description: "This reliable and versatile tool empowers users to efficiently assess the functionality, performance, and reliability of APIs, ensuring they meet the highest industry standards."
+    },
+
+
     'device-details': {
         name: 'Device Details',
         icon: 'laptop-mobile',
